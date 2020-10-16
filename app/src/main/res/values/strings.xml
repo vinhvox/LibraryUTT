@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Library UTT</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+    <string name="email">Email</string>
+    <string name="borrowed">Borrowed</string>
+    <string name="expired">Expired</string>
+    <string name="finish">Finish</string>
+    <string name="application">Application</string>
+    <string name="file">File</string>
+    <string name="promissory_note">Promissory note</string>
+    <string name="connect">Connect</string>
+    <string name="product_introduction">Product introduction</string>
+    <string name="rules">Rules</string>
+    <string name="share">Share</string>
+    <string name="follow_me">Follow me</string>
+    <string name="log_out">Log out</string>
+    <string name="you_may_like">You may like</string>
+    <string name="see_more">see more</string>
+    <string name="new_book">New book</string>
+    <string name="book_name">Book name</string>
+    <string name="information">Information</string>
+    <string name="intro">introduce</string>
+    <string name="category">Category</string>
+    <string name="publish_date">Publish date</string>
+    <string name="nation">Nation</string>
+    <string name="language">Language</string>
+    <string name="looking_for_more_information">Looking for more information</string>
+    <string name="author_information">Author information</string>
+    <string name="publish_information">Publish information</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="artwork">Artwork</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone number</string>
+    <string name="fax">Fax</string>
+    <string name="website">Website</string>
+    <string name="add_cart">Add cart</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="login">Login</string>
+    <string name="enter_full_information">Enter full information</string>
+    <string name="request_email_format">Request format ... @gmail.com</string>
+    <string name="request_password_format">The password requires 6 characters</string>
+    <string name="mess_login">Login...</string>
+    <string name="login_failed">Login failed</string>
+    <string name="mess_forgot">Sending request...</string>
+    <string name="forgot_failed">Forgot password failed</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="form_code">Form code</string>
+    <string name="date_create">Date create</string>
+    <string name="status">Status</string>
+    <string name="borrower">Borrower</string>
+    <string name="student_code">Student code</string>
+    <string name="book_code">Book code</string>
+    <string name="borrow_read">Borrow read</string>
+    <string name="in_place">In Place</string>
+    <string name="carried_away">Carried away</string>
+    <string name="date_pay">Date pay</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="rules_">
+Here store and loan more than 46809 textbooks.\n
+Form of service: Closed warehouse\n
+The process of borrowing textbooks at the borrowing room\n
+1. Look up books in the list of books to be borrowed\n
+2. Enter all information on the request form\n
+3. Clip the request form and student ID card to the Librarian to wait for the book\n
+4. Check books and loan coupons before bringing them home</string>
+    <string name="cannot_be_less_than_the_creation_date">Cannot be less than the creation date</string>
+    <string name="sending_request">Sending request</string>
+    <string name="sent_request_failed">Sent request failed</string>
+    <string name="submit_a_data_deletion_request">Submit a data deletion request</string>
+    <string name="full_name">Full name</string>
+    <string name="cmnd">CMND</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="open_camera">Open camera</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="denied">Permission denied...</string>
+    <string name="save">Save</string>
+    <string name="update_successful">Update successful</string>
+    <string name="the_update_failed">The update failed</string>
+    <string name="qr_code">Qr code</string>
+    <string name="change_password">Change password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password_is_not_correct">Password is not correct</string>
+    <string name="handing">Handing</string>
+    <string name="borrowing">Borrowing</string>
+</resources>
